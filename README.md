@@ -6,7 +6,7 @@ I am currently a 5th semester bachelor Software-Engineering student of the Unive
 
 My specialities lie in tool-development and maintenance of large, long-living systems.
 
-I am currently working on both a small City Builder Project and my bachelors' thesis about inpainting methods in Realtime 3D environments using the Meta Passthrough and Depth-API.<br> 
+I am currently working on both a small City Builder Project and my bachelors' thesis about inpainting methods in Realtime 3D environments using the Meta Passthrough in Unity for decluttering on environments<br> 
 If you are interested in my work, feel free to look through a few of my repositories.<br><br> 
 Some of my repositories are private due to the universities regulations. In case you are interested in those, feel free to reach out. I'll either add your user to the repositories or send you credentials to another account which has access to all the repositories.
 
